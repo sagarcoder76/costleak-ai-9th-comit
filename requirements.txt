@@ -1,0 +1,8 @@
+fastapi>=0.110
+uvicorn>=0.27            # plain: uvloop/httptools are not needed on serverless hosts
+python-multipart>=0.0.9
+pydantic>=2.5
+email-validator>=2.1
+pandas>=2.1
+openpyxl>=3.1
+reportlab>=4.0

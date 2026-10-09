@@ -1,0 +1,107 @@
+==========================================================
+PROMPT 1 — MAIN PPT PROMPT
+Use in: Gamma, Canva Magic Design, Tome, Beautiful.ai,
+        ChatGPT/Claude, Microsoft Copilot in PowerPoint
+Just paste the whole block below.
+==========================================================
+
+Create a professional 11-slide pitch presentation for a project called "CostLeak AI".
+
+ABOUT THE PROJECT:
+CostLeak AI is an AI-powered company cost-waste analyzer for small and medium businesses, startups and agencies in India. Users upload their company expense and subscription data in an Excel file, and the system automatically detects where money is being wasted: duplicate payments, unused software seats, overlapping tools, sudden vendor price increases, expensive manual processes and repeated overtime. Every finding shows the evidence rows, the exact calculation used, a confidence score, a priority level and an estimated saving per month and per year. All calculations use rule-based Python logic, not AI guessing, so the numbers are transparent and auditable.
+
+TONE AND DESIGN:
+- Professional modern SaaS / fintech look, clean and minimal
+- Colour palette: deep blue #0F2A4A for titles and headers, teal #0E9F8E for savings, red #D64545 for waste figures, white and light grey backgrounds
+- Rounded cards, soft shadows, generous spacing, bold readable sans-serif font
+- Large bold numbers wherever a rupee figure appears
+- Maximum 6 lines of text per slide, use icons, avoid paragraphs
+- Include simple charts or data visuals on the dashboard and impact slides
+
+SLIDES:
+
+Slide 1 - Title
+Title: CostLeak AI
+Subtitle: Find hidden money leaks in your company before they become annual losses
+Small caption: AI-powered company cost-waste analyzer
+Placeholders for presenter name, team name and date
+
+Slide 2 - The Problem
+Heading: Nobody owns the leak
+Points: Finance sees invoices, IT sees subscriptions, HR sees overtime, but nobody sees the overlap. An invoice paid twice. 18 licences nobody logs into. Two design tools billed to two different cards. A vendor who quietly raised prices 40%. Each leak is small, but together they are 5 to 15 percent of monthly operating spend.
+
+Slide 3 - Why existing tools do not solve it
+Heading: Trackers record. They do not analyse.
+A three-column comparison: Expense trackers show what you spent with no recommendations. Enterprise procurement tools cost more than the waste they find and take months to implement. CostLeak AI shows what to stop spending and works in two minutes from an Excel file.
+
+Slide 4 - Our Solution
+Heading: Upload Excel, get a ranked list of savings findings
+Show the four-step flow: Upload, Validate, Analyse, Act
+Then four example finding cards with large rupee figures:
+Duplicate payment to a telecom vendor - 19,800 rupees recoverable
+34 unused seats on a workspace tool - 3,740 rupees per month
+Three cloud storage tools doing one job - 12,200 rupees per month
+Manual invoice data entry costs 1,35,000 rupees per month, automation saves 81,000 rupees per month
+
+Slide 5 - Demo and results
+Heading: Real results on a real dataset
+Three large KPI numbers side by side: 9.0 lakh rupees monthly spend, 3.0 lakh rupees estimated monthly waste, 28 findings detected
+Caption: 36 lakh rupees a year, found in under a minute
+Leave space for two product screenshots: the dashboard and a finding card
+
+Slide 6 - How the detection works
+Heading: Eight rule-based detection engines, no guessing
+List as eight short icon items: duplicate payments, overlapping software tools, unused software seats, vendor price increases above 20 percent, high-cost low-usage subscriptions, upcoming renewals on under-used tools, manual process cost, repeated departmental overtime
+Footer line in bold: The AI writes the explanations. Python does the maths.
+
+Slide 7 - Every number is auditable
+Heading: We show the formula, not a black box
+Display this worked example large and centred:
+Unused seats = 20 paid minus 12 used = 8
+Cost per seat = 10,000 rupees divided by 20 = 500 rupees
+Monthly waste = 8 times 500 = 4,000 rupees, which is 48,000 rupees per year
+Add two supporting points: every finding shows its evidence rows, confidence score and priority, and all figures are clearly labelled Estimated Savings
+
+Slide 8 - Prioritisation
+Heading: Fix the 50,000 rupee leak before the 500 rupee one
+Show four priority levels as coloured bands: Critical above 50,000 rupees per month or duplicate payment risk, High 10,000 to 50,000, Medium 2,000 to 10,000, Low below 2,000
+Add the scoring weights: rupee impact 55 percent, data confidence 20 percent, ease of action 15 percent, recurrence 10 percent
+Add the workflow as a horizontal arrow: Identified, In Review, Approved, Actioned, Verified
+
+Slide 9 - Technology stack
+Heading: Simple, free and production ready
+Show as labelled icon groups: Backend Python and FastAPI, Data processing Pandas and OpenPyXL, Database SQLite ready for Supabase or Postgres, Frontend HTML CSS JavaScript and Chart.js, Reporting ReportLab PDF export, Quality modular rule registry with unit tests and Docker deployment
+
+Slide 10 - Impact and roadmap
+Heading: 36 lakh rupees per year of estimated savings on the demo company
+Roadmap items as a timeline: bank statement and Tally or Zoho import, multi-month savings tracking to verify savings actually happened, renewal calendar with email alerts, benchmarking against similar companies
+
+Slide 11 - Closing
+Heading: CostLeak AI - stop paying for what you do not use
+Space for a live demo link, a QR code and a GitHub repository link
+Presenter name and contact details
+Small disclaimer text at the bottom: Savings are estimates based on uploaded data
+
+
+==========================================================
+PROMPT 2 — SHORT VERSION
+Use when the tool only accepts a few lines of input
+==========================================================
+
+Create an 11-slide professional fintech pitch deck for "CostLeak AI", an AI-powered company cost-waste analyzer where businesses upload expense data in Excel and get ranked money-saving findings such as duplicate payments, unused software seats, overlapping tools, vendor price increases and expensive manual processes. Use a deep blue, teal and white SaaS design with large bold rupee figures, minimal text and icons. Slides: 1 Title, 2 The problem of invisible cost leaks, 3 Why expense trackers do not solve it, 4 Our solution with example findings, 5 Demo results showing 9 lakh monthly spend and 3 lakh monthly waste across 28 findings, 6 The eight detection rules, 7 Transparent formulas and evidence, 8 Priority levels and workflow, 9 Tech stack of Python FastAPI Pandas SQLite Chart.js and ReportLab, 10 Impact and roadmap, 11 Closing with demo and GitHub links.
+
+
+==========================================================
+PROMPT 3 — IMAGE PROMPT FOR THE TITLE SLIDE BACKGROUND
+Use in: Midjourney, DALL-E, Ideogram, Canva AI
+==========================================================
+
+Abstract modern fintech background, deep navy blue gradient with teal accents, subtle glowing line chart and coin or rupee symbols dissolving into light particles, clean minimal corporate SaaS style, soft depth of field, plenty of empty dark space on the left side for a title, professional, high resolution, 16:9
+
+
+==========================================================
+PROMPT 4 — SPEAKER NOTES GENERATOR
+Paste after the deck is made
+==========================================================
+
+Write speaker notes for each slide of this CostLeak AI presentation. Keep each slide to 30 to 40 seconds of spoken text, around 60 to 80 words. Use a confident, plain-spoken founder tone with no jargon. Always lead with the rupee impact before explaining the method. On the technical slides, emphasise that all calculations are deterministic Python formulas and the AI only writes explanations. End each note with a natural one-line transition into the next slide.

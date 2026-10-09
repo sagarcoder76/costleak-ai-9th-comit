@@ -1,0 +1,13 @@
+# Keep the deployment small; everything the function needs stays.
+.git
+data
+sample
+tests
+Dockerfile
+Procfile
+render.yaml
+run.sh
+DESCRIPTION.md
+PPT-OUTLINE.md
+PPT-PROMPT.txt
+COPY-PASTE.txt

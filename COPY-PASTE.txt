@@ -1,0 +1,12 @@
+==========================================================
+BLOCK 1 — PROJECT DESCRIPTION  (copy everything below)
+==========================================================
+
+CostLeak AI is an AI-powered company cost-waste analyzer that helps small and medium businesses find where their money is leaking. Users upload their company expense and subscription data in a simple Excel file, and the system automatically analyses it to detect duplicate payments, unused software seats, overlapping tools, sudden vendor price increases, costly manual processes and repeated overtime. Each finding is shown with the supporting evidence rows, the exact calculation used, a confidence score, a priority level and an estimated saving per month and per year. The dashboard presents total spend, estimated monthly waste, potential annual savings and charts by category, department and vendor, while the findings page lets teams assign owners, track status and add comments. A one-page executive PDF report can be exported with the top savings opportunities and a 30-60-90 day action plan. All calculations are done using rule-based Python logic, so the results are accurate, transparent and work without any API key.
+
+
+==========================================================
+BLOCK 2 — SKILLS USED  (copy everything below)
+==========================================================
+
+Python, FastAPI, REST API Development, Pandas, OpenPyXL, Excel Data Processing, Data Cleaning, Data Analysis, Rule-Based Algorithm Design, Business Logic Implementation, SQLite, Database Design, ReportLab, PDF Report Generation, HTML, CSS, JavaScript, Responsive Web Design, UI/UX Design, Chart.js, Data Visualization, Dashboard Development, File Upload Handling, Input Validation, Error Handling, Modular Code Architecture, Unit Testing, Pytest, Git, GitHub, Docker, Deployment, Financial Analysis, Cost Optimization, SaaS Spend Management, Problem Solving
